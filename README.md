@@ -1,6 +1,7 @@
 # Equity Research Report – MercadoLibre (MELI)
 
-  <img width="537" height="154" alt="image" src="https://github.com/user-attachments/assets/b0207f44-bd31-4962-af16-bbf63319d448" />
+ ![WhatsApp Image 2025-07-13 at 11 34 12-fotor-enhance-20250713113704](https://github.com/user-attachments/assets/3edb912c-4d7a-4a21-83e8-a74cb42b71ec)
+
 
 📌 **Company:** MercadoLibre Inc. (NASDAQ: MELI)  
 📅 **Date:** July 2025  
