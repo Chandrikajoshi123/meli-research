@@ -1,4 +1,7 @@
 # Equity Research Report – MercadoLibre (MELI)
+
+  <img width="537" height="154" alt="image" src="https://github.com/user-attachments/assets/b0207f44-bd31-4962-af16-bbf63319d448" />
+
 📌 **Company:** MercadoLibre Inc. (NASDAQ: MELI)  
 📅 **Date:** July 2025  
 📊 **Recommendation:** Hold  
