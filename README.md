@@ -2,12 +2,15 @@
 
  ![WhatsApp Image 2025-07-13 at 11 34 12-fotor-enhance-20250713113704](https://github.com/user-attachments/assets/3edb912c-4d7a-4a21-83e8-a74cb42b71ec)
 
+This project contains an original equity research report on **MercadoLibre Inc. (NASDAQ: MELI)**, completed as an independent learning exercise using materials from Wall Street Oasis (WSO) and public company data.
 
-📌 **Company:** MercadoLibre Inc. (NASDAQ: MELI)  
-📅 **Date:** July 2025  
-📊 **Recommendation:** Hold  
-🎯 **Fair Value Estimate:** $1,847.73  
-🌍 **Region:** Latin America | Sector: Tech / E-Commerce / FinTech
+- 📌 **Company:** MercadoLibre Inc. (NASDAQ: MELI)  
+- 📅 **Date:** July 2025  
+- 📍 **Region:** Latin America  
+- 💼 **Sector:** E-Commerce / FinTech / Logistics  
+- 🧠 **Author:** Chandrika Joshi
+
+
 
 ## 📝 Overview
 
