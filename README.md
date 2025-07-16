@@ -49,6 +49,7 @@ This project was done as part of my ongoing learning in equity research and fina
 Finance & Investment Enthusiast | Equity Research Learner  
 [LinkedIn Profile] | [Email Address] | [Location]
 
+## Special Thanks to
 
 ![WhatsApp Image 2025-07-13 at 11 42 01-fotor-enhance-20250713114430](https://github.com/user-attachments/assets/c4bf2389-5528-4781-82fd-3ce1f2b898d4)
 
